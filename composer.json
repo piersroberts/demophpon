@@ -1,0 +1,12 @@
+{
+    "name": "piersroberts/demophpon",
+    "require": {
+        "guzzle/http": "3.8.1"
+    },
+    "authors": [
+        {
+            "name": "Piers Roberts",
+            "email": "piersroberts@gmail.com"
+        }
+    ]
+}
